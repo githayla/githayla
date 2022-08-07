@@ -1,8 +1,6 @@
 - 👋 Hi, my name is Giovanna Lima
 - 👀 I come for another field, but got a huge interest on programming and since some months decided to try to learn it. 
-- 💭 I have made some small courses about Programming Logical, HTML and CSS
-- ✨ But what really got my interest are the Back End tecnologies
-- 🌱 Because of this I have been focusing now on learning Python!
+- 💭 I am right now dedicating myself into learning HTML, CSS and JS
 - 💬 I speak Portuguese, English and German. 
-- 💡 Feel free to contact me if you have in mind a funny colaboration in a project involving Python!
+- 💡 Feel free to contact me if you have in mind a funny colaboration in a project involving those technologies!
 - 👩🏼‍💻 Let's code! 
